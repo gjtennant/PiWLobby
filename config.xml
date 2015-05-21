@@ -9,10 +9,10 @@
 	versionCode     = "10" >
 	<!-- versionCode is optional and Android only -->
 
-	<name>PiW Front</name>
+	<name>PiW Lobby</name>
 
 	<description>
-		Simple exercises to see what's what. 
+		A mobile access panel to the world of Pictures Into Words. 
 	</description>
 
 	<author href="http://picturesintowords.com" email="">
